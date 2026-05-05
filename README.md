@@ -9,7 +9,7 @@ Projeto desenvolvido como parte da disciplina de Algoritmos e Programação.
 - Listagem de funcionários
 - Menu interativo via terminal
 
-## 🛠 Tecnologias
+## Tecnologias
 - Java
 - Scanner
 - ArrayList
